@@ -1,6 +1,6 @@
 {
   "name": "@ungap/bytes",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "type": "module",
   "description": "A Blob, Request and Response `prototype.bytes()` polyfill",
   "main": "index.js",
