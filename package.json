@@ -1,11 +1,16 @@
 {
   "name": "@ungap/bytes",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "type": "module",
   "description": "A Blob, Request and Response `prototype.bytes()` polyfill",
   "main": "index.js",
   "module": "index.js",
-  "keywords": ["bytes", "Blob", "Request", "Reponse"],
+  "keywords": [
+    "bytes",
+    "Blob",
+    "Request",
+    "Reponse"
+  ],
   "author": "Andrea Giammarchi",
   "license": "MIT",
   "repository": {
